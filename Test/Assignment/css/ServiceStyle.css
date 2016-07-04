@@ -13,9 +13,10 @@ header a {
 }
 
 header a:hover {
-    color: blue ;
+    color: blue;
     text-decoration: underline;
 }
+
 .selected {
     color: black;
 }
@@ -34,11 +35,11 @@ footer {
     margin-top: 850px;
     padding-bottom: 20px;
     text-align: center;
-    background: rgb(127,255,212);
+    background: rgb(127, 255, 212);
     color: blue;
     font-size: 20px;
     font-family: 'Open Sans Condensed', sans-serif;
-  }
+}
 
 .navigation {
     padding-top: 28px;
@@ -47,26 +48,26 @@ footer {
 
 header {
     position: fixed;
-    background: rgb(127,255,212);
+    background: rgb(127, 255, 212);
 }
-
 
 .firstrow {
     margin-top: 75px;
-
 }
-
 
 section.grid_4 {
     margin-top: 10px;
 }
+
+
 /* section.grid_6{
-	margin-bottom: 40px;
+    margin-bottom: 40px;
 } */
+
 
 /*
 . footer p{
-	margin-top: 900px;
+    margin-top: 900px;
 }  */
 
 .firstrow h1 {
@@ -90,10 +91,11 @@ h3,
 p {
     text-align: center;
 }
-.firstrow{
-    background: #efefee;
 
+.firstrow {
+    background: #efefee;
 }
+
 .socialicons li {
     display: inline;
 }
@@ -102,14 +104,15 @@ p {
     font-size: 10px;
 }
 
-.page{
-	background-color: rgb(230,230,250);
+.page {
+    background-color: rgb(230, 230, 250);
 }
-.secondrow{
-	margin-top:500px;
-	margin-bottom: 20px;
 
+.secondrow {
+    margin-top: 500px;
+    margin-bottom: 20px;
 }
+
 .secondrow h1 {
     font-family: cursive;
     text-shadow: 5px 5px 10px red;
@@ -118,6 +121,7 @@ p {
     padding-right: 200px;
     text-align: center;
 }
+
 .secondrow h3 {
     font-size: 20px;
     font-style: italic;
@@ -125,11 +129,13 @@ p {
     color: green;
     text-shadow: 5px 5px 10px red;
 }
+
 .secondrow p {
     margin-top: -50px;
     font-family: 'Pacifico', cursive;
     font-size: 30px;
 }
-.thirdrow{
-	margin-bottom: -420px;
+
+.thirdrow {
+    margin-bottom: -420px;
 }
